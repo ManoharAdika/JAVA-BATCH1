@@ -20,7 +20,7 @@ class Bike extends Vehicle {
 }
 
 
-public class PolymorphismExample {
+public class PolymorphismExampleOverriding {
 	
 	
 	// one action having many form called polymorphism

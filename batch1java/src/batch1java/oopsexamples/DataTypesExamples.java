@@ -1,8 +1,20 @@
 package batch1java.oopsexamples;
 
+
+class A1{
+	
+	static void  m1() {
+		
+		System.out.println("m1 method calling...method..");
+		
+	}
+}
+
 public class DataTypesExamples {
 		
 		public static void main(String args[] ) {
+			
+			A1.m1();
 			
 			int e = 1242;
 			//Integer

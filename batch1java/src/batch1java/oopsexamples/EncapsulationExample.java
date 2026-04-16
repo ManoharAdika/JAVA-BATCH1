@@ -11,9 +11,13 @@ public class EncapsulationExample {
 
 	public static void main(String args[]) {
 		Employee employee = new Employee();
+		
 		employee.getEmpAge();
 		employee.getEmpId();
 		employee.getEmpName();
+		
+		
+		
 		System.out.println(employee.getEmpAge());
 		System.out.println(employee.getEmpId());
 		System.out.println(employee.getEmpName());
